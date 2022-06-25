@@ -1,16 +1,2 @@
-On branch master
-Your branch is ahead of 'origin/master' by 1 commit.
-  (use "git push" to publish your local commits)
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   README.md
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	README.me
-	../0x00.shell_basics/
-	../README.md
-
-no changes added to commit (use "git add" and/or "git commit -a")
+[master 387d7b8] 2-bring_me_home
+ 1 file changed, 1 insertion(+), 1 deletion(-)
