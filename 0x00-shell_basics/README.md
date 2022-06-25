@@ -1,3 +1,16 @@
-[master f6a71d5] 4-listmorefiles
- 1 file changed, 2 insertions(+)
- create mode 100755 0x00-shell_basics/4-listmorefiles
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	README.me
+	../0x00.shell_basics/
+	../README.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
