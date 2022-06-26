@@ -1,14 +1,3 @@
-On branch master
-Your branch is up to date with 'origin/master'.
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   README.md
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	../0x00.shell_basics/
-	../README.md
-
-no changes added to commit (use "git add" and/or "git commit -a")
+[master ee66b7e] Lets move
+ 1 file changed, 2 insertions(+)
+ create mode 100755 0x00-shell_basics/100-lets_move
