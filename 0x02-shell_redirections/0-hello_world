@@ -1,2 +1,2 @@
 #!/bin/bash
-README.md
+chmod u+x file_name
